@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+DjangoWebEnv
+db.sqlite3
+/static
+.DS_Store
+/DjangoWeb.pyproj
+/DjangoWeb.pyproj.user
+/CustomProfile.pubxml
+/CustomProfile.pubxml.user
+/readme.html
+/obj
